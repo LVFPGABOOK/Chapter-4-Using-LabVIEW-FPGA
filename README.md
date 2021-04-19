@@ -8,7 +8,7 @@
 [3] Gupton, K., et al., “Real-Time Control of Extremely Large Telescope Mirror Systems Using On-Line High Performance Computing,” 2010 17th IEEENPSS Real Time Conference, 2010, pp. 1–5.  
 [4] van Manen, D. -J., et al., “Immersive Wave Experimentation: Extreme Low-Latency and HPC Requirements Enabled by FPGA Technology,” PASC17 Conference, Lugano, Switzerland, June 26–28, 2017, https://pasc17.pasc-conference.org/program/index-of-contributors/.  
 [5] NI, “LabVIEW 2020 FPGA IP Export Utility Readme,” http://www.ni.com/pdf/manuals/378241a.html.  
-[6] Walden, D. D., et al., Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities, 4th ed., New York: Wiley, 2015, p. 1, http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=1016324 (error).  
+[6] Walden, D. D., et al., Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities, 4th ed., New York: Wiley, 2015, p. 1, https://www.sebokwiki.org/w/images/sebokwiki-farm!w/0/0a/Guide_to_the_Systems_Engineering_Body_of_Knowledge.pdf.  
 [7] NI, “Getting Started with the FPGA Module,” 2018, https://zone.ni.com/reference/en-XX/help/371599P-01/lvfpgahelp/fpga_getting_started/.  
 [8] Kehtarnavaz, N., and S. Mahotra, Digital Signal Processing Laboratory : LabVIEW-Based FPGA Implementation, Boca Raton, FL: Brown Walker Press, 2010.  
 [9] Ponce-Cruz, P., A. Molina, and B. MacCleery, Fuzzy Logic Type 1 and Type 2 Based on LabVIEW FPGA, New York: Springer, 2016.  
