@@ -13,7 +13,6 @@
 [8] Kehtarnavaz, N., and S. Mahotra, Digital Signal Processing Laboratory : LabVIEW-Based FPGA Implementation, Boca Raton, FL: Brown Walker Press, 2010.  
 [9] Ponce-Cruz, P., A. Molina, and B. MacCleery, Fuzzy Logic Type 1 and Type 2 Based on LabVIEW FPGA, New York: Springer, 2016.  
 [10] NI, LabVIEW 2018 FPGA Module Help, 2018, https://zone.ni.com/reference/en-XX/help/371599P-01/.  
-
 [11] NI, “NI Community,” https://forums.ni.com/.  
 [12] Royce, W. W., “Managing the Development of Large Software Systems,” Proceedings of IEEE WESCON, 1970, pp. 328–388.  
 [13] Beck, K., et al., “Manifesto for Agile Software Development,” agilemanifesto.org, February 2001.  
